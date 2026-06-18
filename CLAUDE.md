@@ -25,5 +25,5 @@ never modify the data.
 - Produce monthly or category rollups on request (computed, not stored — the ledger is truth).
 
 ## Durability
-- Not yet in git. Offer to back it up to a private repo (like the body-and-mind one) so a
-  permanent record isn't lost to a laptop wipe.
+- Backed up to **private GitHub repo `zyrxun/finance`**. Commit + push after appending rows so
+  the permanent record survives a laptop wipe.
